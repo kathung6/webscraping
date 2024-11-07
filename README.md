@@ -1,2 +1,2 @@
 # webscraping
-Webs scraping practice
+Web scraping practice
